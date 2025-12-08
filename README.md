@@ -64,10 +64,10 @@ My passion lies in leveraging **Deep Learning** and **Multi-omics** data to adva
 
 I am open to discussing internship opportunities in **Computational Oncology**, **Virtual Twins**, or **Deep Learning applied to Health**.
 
-* [LinkedIn]([https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/m/in/marie-meier-3a089a256/))
+* [LinkedIn]([https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/m/in/marie-meier-3a089a256/)
 * [Email](mailto:marie.meier@agroparistech.fr)
 
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[TON_USERNAME]&show_icons=true&theme=minimal" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mariemeier&show_icons=true&theme=minimal" alt="GitHub Stats" />
 </div>
