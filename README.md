@@ -1,4 +1,4 @@
-# Hi there, I'm [Ton Prénom]! 👋
+# Hi there, I'm Marie! 👋
 
 ### 🧬 Computational Biology & Data Science Student
 
