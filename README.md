@@ -4,14 +4,14 @@
 
 I am a double-degree Master's student at **AgroParisTech** and **Université Paris-Saclay** (M2 AMI2B), specializing in the intersection of **Artificial Intelligence** and **Life Sciences**.
 
-My passion lies in leveraging **Deep Learning** and **Multi-omics** data to advance **Precision Medicine** and **Computational Oncology**. I am particularly interested in Virtual Twins, tumor heterogeneity, and reproducible research.
+My passion lies in leveraging **Deep Learning** and **Multi-omics** data to advance **Precision Medicine** and **Computational Oncology**. I am particularly interested in Virtual Twins, computationnal oncology, and medical imaging.
 
 ---
 
 ### 🎯 Current Focus & Goals
 * 🔭 I’m currently working on **VideoMAE and SAM 3** for behavioral analysis in livestock.
 * 🔎 I’m looking for a **6-month Research Internship** starting **March 2026**.
-* 🌱 I’m learning more about **Spatial Omics** and **Graph Neural Networks**.
+* 🌱 I’m learning more about **Segmentation algorithms** and **medical imagining analysis**.
 
 ---
 
