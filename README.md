@@ -41,7 +41,7 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 
 ### 🚀 Featured Projects
 
-#### 🐮 SELF6SUPERVISED LEARNING FOR BEHAVIORAL ANALYSIS
+#### 🐮 SELF-SUPERVISED LEARNING FOR BEHAVIORAL ANALYSIS
 *Ongoing "Fil Rouge" Project*
 * **Goal:** Classification of cow behaviors (e.g., rumination) from video surveillance (RGB & Infrared) without extensive annotation.
 * **Methodology:**
@@ -51,7 +51,7 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 * **Robustness:** evaluating model performance under data scarcity (25%, 50%, 80% datasets) and occlusion scenarios.
 * **Tools:** PyTorch, Hugging Face, SAM 3.
 
-#### 🧬 REPRODUCTIBLE rna6SEQ ANALYSIS PIPELINE
+#### 🧬 REPRODUCTIBLE RNA-SEQ ANALYSIS PIPELINE
 *Bioinformatics Project*
 * **Goal:** Reproduction of a genomic analysis study from raw sequencing data to biological insights.
 * **Methodology:**
