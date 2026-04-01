@@ -2,17 +2,16 @@
 
 ### 🧬 Computational Biology & Data Science Student
 
-I am a double-degree Master's student at **AgroParisTech** and **Université Paris-Saclay** (M2 AMI2B), specializing in the intersection of **Artificial Intelligence** and **Life Sciences**.
+I am a double-degree Master's student at **AgroParisTech** and **Université Paris-Saclay** (M2 AMI2B), specializing in the intersection of **Artificial Intelligence** and **Life Sciences & Health**.
 
-My passion lies in leveraging **Deep Learning** and **Multi-omics** data to advance **Precision Medicine** and **Computational Oncology**. I am particularly interested in Virtual Twins, computationnal oncology, and medical imaging.
+My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Multi-omics** data to advance **Precision Medicine** and **Computational Oncology**. I am particularly interested in Virtual Twins, computationnal oncology, and medical imaging.
 
 ---
 
-### 🎯 Current Focus & Goals
-* 🔭 I’m currently working on **VideoMAE and SAM 3** for behavioral analysis in livestock.
-* 🔎 I’m looking for a **6-month Research Internship** starting **March 2026**.
-* 🌱 I’m learning more about **Segmentation algorithms** and **medical imagining analysis**.
-
+🎯 Current Focus & Goals
+    🔭 I’m currently working on Radiomics and Multimodal learning for medical data analysis.
+    🔎 I’m looking for a PhD position starting in 2026 to further explore advanced AI in healthcare.
+    🌱 I’m currently expanding my knowledge in Single-cell analysis and Foundation Models for biology and medicine.
 ---
 
 ### 🛠️ Tech Stack
