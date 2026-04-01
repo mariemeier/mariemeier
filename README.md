@@ -74,16 +74,13 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 
 I am open to discussing internship opportunities in **Computational Oncology**, **Virtual Twins**, or **Deep Learning applied to Health**.
 
-* <a href="https://www.linkedin.com/m/in/marie-meier-3a089a256/">
+<a href="https://www.linkedin.com/m/in/marie-meier-3a089a256/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn">
 </a>
-* <a href="mailto:marie.meier@agroparistech.fr">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png](https://static.vecteezy.com/system/resources/previews/020/009/586/non_2x/email-and-mail-icon-black-free-png.png)" width="40" height="40" alt="Mail">
+
+<a href="mailto:marie.meier@agroparistech.fr">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png](https://static.vecteezy.com/system/resources/previews/020/009/586/non_2x/email-and-mail-icon-black-free-png.png]" width="40" height="40" alt="Mail">
 </a>
-
-
-* [LinkedIn](https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/m/in/marie-meier-3a089a256/ )
-* [Email](mailto:marie.meier@agroparistech.fr)
 
 <br/>
 <div align="center">
