@@ -11,6 +11,7 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 * 🔭 I’m currently working on **Radiomics** and **Multimodal learning** for medical data analysis.
 * 🔎 I’m looking for a **PhD position** starting in **2026** to further explore advanced AI in healthcare.
 * 🌱 I’m currently expanding my knowledge in **Single-cell analysis** and **Foundation Models** for biology and medicine.
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -24,6 +25,9 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyRadiomics](https://img.shields.io/badge/PyRadiomics-339933?style=for-the-badge&logo=python&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-2ECC71?style=for-the-badge&logo=pytorch&logoColor=white)
+![SimpleITK](https://img.shields.io/badge/SimpleITK-4A90E2?style=for-the-badge&logo=insightsoftware&logoColor=white)
 
 **Bioinformatics & DevOps**
 
