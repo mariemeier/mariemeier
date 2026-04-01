@@ -60,6 +60,14 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
     * Conducted statistical analysis in **R** to identify differentially expressed genes (focusing on translation-related genes).
 * **Tools:** Nextflow, Docker, R (DESeq2, ggplot2).
 
+#### 📊 BULK RNA-SEQ DECONVOLUTION CHALLENGE
+*Datacamp / Bioinformatics Challenge*
+**Goal:** Estimate cellular heterogeneity in pancreatic adenocarcinoma by decomposing bulk signals into specific cell type proportions.
+* **Methodology:**
+  * Implemented reference-based deconvolution algorithms using single-cell RNA-seq and DNA methylation as anchors.
+  * Leveraged multimodal data integration (Transcriptomics + Methylomics) to improve the accuracy of cell type fraction estimates (immune, fibroblasts, tumor cells).
+  * Validated performance across simulated, in vitro, and in vivo mixtures to assess biological robustness.
+* **Tools:** Python, ScRNA-seq reference mapping, Multimodal integration.
 ---
 
 ### 📫 Let's Connect
