@@ -20,6 +20,13 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**Bioinformatics & DevOps**
+
+![Nextflow](https://img.shields.io/badge/Nextflow-2C2D72?style=for-the-badge&logo=nextflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 **Machine Learning & AI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -27,13 +34,8 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyRadiomics](https://img.shields.io/badge/PyRadiomics-339933?style=for-the-badge&logo=python&logoColor=white)
 ![MONAI](https://img.shields.io/badge/MONAI-2ECC71?style=for-the-badge&logo=pytorch&logoColor=white)
-![SimpleITK](https://img.shields.io/badge/SimpleITK-4A90E2?style=for-the-badge&logo=insightsoftware&logoColor=white)
+![SimpleITK](https://img.shields.io/badge/SimpleITK-4A90E2?style=for-the-badge&logo=insightsoftware&logoColor=white)$
 
-**Bioinformatics & DevOps**
-
-![Nextflow](https://img.shields.io/badge/Nextflow-2C2D72?style=for-the-badge&logo=nextflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
