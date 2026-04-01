@@ -6,16 +6,10 @@ I am a double-degree Master's student at **AgroParisTech** and **Université Par
 
 My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Multi-omics** data to advance **Precision Medicine** and **Computational Oncology**. I am particularly interested in Virtual Twins, computationnal oncology, and medical imaging.
 
----
-
 🎯 Current Focus & Goals
-
-    🔭 I’m currently working on Radiomics and Multimodal learning for medical data analysis.
-    
+    🔭 I’m currently working on Radiomics and Multimodal learning for medical data analysis. 
     🔎 I’m looking for a PhD position starting in 2026 to further explore advanced AI in healthcare.
-    
     🌱 I’m currently expanding my knowledge in Single-cell analysis and Foundation Models for biology and medicine.
----
 
 ### 🛠️ Tech Stack
 
