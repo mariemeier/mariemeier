@@ -79,7 +79,7 @@ I am open to discussing internship opportunities in **Computational Oncology**, 
 </a>
 
 <a href="mailto:marie.meier@agroparistech.fr">
-  <img src="https://static.vecteezy.com/system/resources/previews/020/009/586/non_2x/email-and-mail-icon-black-free-png.png" width="40" height="40" alt="Mail">
+  <img src="https://static.vecteezy.com/system/resources/previews/020/009/586/non_2x/email-and-mail-icon-black-free-png.png](https://cdn-icons-png.flaticon.com/512/18154/18154191.png" width="40" height="40" alt="Mail">
 </a>
 
 <br/>
