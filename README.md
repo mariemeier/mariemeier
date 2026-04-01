@@ -73,9 +73,8 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 ### 📫 Let's Connect
 
 I am open to discussing internship opportunities in **Computational Oncology**, **Virtual Twins**, or **Deep Learning applied to Health**.
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/ton-profil/]
 
-<a href="https://www.linkedin.com/in/TON_PROFIL/">
+<a href="https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/m/in/marie-meier-3a089a256/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn">
 </a>
 
