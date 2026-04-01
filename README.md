@@ -10,7 +10,9 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 
 🎯 Current Focus & Goals
     🔭 I’m currently working on Radiomics and Multimodal learning for medical data analysis.
+    
     🔎 I’m looking for a PhD position starting in 2026 to further explore advanced AI in healthcare.
+    
     🌱 I’m currently expanding my knowledge in Single-cell analysis and Foundation Models for biology and medicine.
 ---
 
