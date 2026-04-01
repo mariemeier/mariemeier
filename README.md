@@ -73,7 +73,8 @@ My passion lies in leveraging **Machine Learning**, **Deep Learning** and **Mult
 ### 📫 Let's Connect
 
 I am open to discussing internship opportunities in **Computational Oncology**, **Virtual Twins**, or **Deep Learning applied to Health**.
-[<img src="https://fr.wikipedia.org/wiki/Fichier:LinkedIn_icon.svg#/media/Fichier:LinkedIn_logo_initials.png" width="24" height="24" />]([TON_LIEN_ICI](https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/m/in/marie-meier-3a089a256/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/m/in/marie-meier-3a089a256/)
+
 * [LinkedIn](https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/m/in/marie-meier-3a089a256/ )
 * [Email](mailto:marie.meier@agroparistech.fr)
 
